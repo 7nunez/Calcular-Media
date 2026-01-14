@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\MediaNotas\\MediaNotas.csproj": {}
+    "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\Calcular-Media\\MediaNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\MediaNotas\\MediaNotas.csproj": {
+    "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\Calcular-Media\\MediaNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\MediaNotas\\MediaNotas.csproj",
+        "projectUniqueName": "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\Calcular-Media\\MediaNotas.csproj",
         "projectName": "MediaNotas",
-        "projectPath": "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\MediaNotas\\MediaNotas.csproj",
+        "projectPath": "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\Calcular-Media\\MediaNotas.csproj",
         "packagesPath": "C:\\Users\\prepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\MediaNotas\\obj\\",
+        "outputPath": "C:\\Users\\prepa\\Documents\\Modelos Personalizados do Office\\JoseAntonio\\Notas de alunos - listas\\Calcular-Media\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prepa\\AppData\\Roaming\\NuGet\\NuGet.Config"
